@@ -1,0 +1,3 @@
+MONGO_URI=mongodb+srv://kollurususwetha:suswetha@cluster0.nb1kioq.mongodb.net/cat?retryWrites=true&w=majority&appName=Cluster0
+
+JWT_SECRET = swetha
